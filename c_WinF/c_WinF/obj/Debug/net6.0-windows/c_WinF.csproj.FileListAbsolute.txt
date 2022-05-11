@@ -1,0 +1,17 @@
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\bin\Debug\net6.0-windows\c_WinF.exe
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\bin\Debug\net6.0-windows\c_WinF.deps.json
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\bin\Debug\net6.0-windows\c_WinF.runtimeconfig.json
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\bin\Debug\net6.0-windows\c_WinF.dll
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\bin\Debug\net6.0-windows\c_WinF.pdb
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.csproj.AssemblyReference.cache
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.Form1.resources
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.csproj.GenerateResource.cache
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.AssemblyInfoInputs.cache
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.AssemblyInfo.cs
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.csproj.CoreCompileInputs.cache
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.dll
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\refint\c_WinF.dll
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.pdb
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\c_WinF.genruntimeconfig.cache
+D:\Proyectos\.NET Core 6\c_WinF\c_WinF\obj\Debug\net6.0-windows\ref\c_WinF.dll
